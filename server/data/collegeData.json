@@ -1,0 +1,455 @@
+{
+  "college": {
+    "name": "SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering",
+    "shortName": "SNJB COE",
+    "subtitle": "Jain Gurukul Campus, Chandwad",
+    "campus": "Jain Gurukul Campus, Neminagar, Chandwad",
+    "address": "Chandwad - 423101, District Nashik, Maharashtra, India",
+    "phone": ["(02556) 253750", "8888491461"],
+    "email": "principalcoe@snjb.org",
+    "workingHours": "Monday to Saturday, 9:20 AM to 4:40 PM",
+    "established": 2004,
+    "establishedBranches": [
+      "Mechanical Engineering",
+      "Computer Engineering",
+      "Electronics and Telecommunications Engineering",
+      "Civil Engineering"
+    ],
+    "subsequentAdditions": [
+      { "program": "MBA Program", "year": 2010 },
+      { "program": "Artificial Intelligence and Data Science (AI&DS)", "year": 2020 }
+    ],
+    "approvals": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and the Government of Maharashtra.",
+    "affiliationNotice": "The supplied institutional information also mentions affiliation with the University of Pune. Note: Do not describe the college as autonomous unless that status is confirmed through official college records."
+  },
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "Civil Engineering — NBA Accreditation, 2025",
+      "description": "NBA accreditation was reported for Civil Engineering in 2025.",
+      "year": "2025",
+      "programs": ["Civil Engineering"],
+      "verifiedStatus": "Reported NBA Accreditation (2025)"
+    },
+    {
+      "id": "ach-2",
+      "title": "Electronics and Telecommunications Engineering — NBA Accreditation, 2025",
+      "description": "NBA accreditation was reported for Electronics and Telecommunications Engineering in 2025.",
+      "year": "2025",
+      "programs": ["Electronics and Telecommunications Engineering"],
+      "verifiedStatus": "Reported NBA Accreditation (2025)"
+    },
+    {
+      "id": "ach-3",
+      "title": "MBA — NBA Accreditation, 2025",
+      "description": "NBA accreditation was reported for MBA in 2025.",
+      "year": "2025",
+      "programs": ["MBA"],
+      "verifiedStatus": "Reported NBA Accreditation (2025)"
+    }
+  ],
+  "departmentHeads": [
+    {
+      "id": "dept-comp",
+      "department": "Computer Engineering",
+      "name": "Dr. K. M. Sanghavi",
+      "designation": "Professor and Head of Department",
+      "qualification": "BE, ME (CSE), PhD (CSE)",
+      "areasOfInterest": "Image Processing, Compiler Constructions, Object-Oriented Programming",
+      "email": "hodcompcoe@snjb.org",
+      "additionalEmail": "sanghavi.kmcoe@snjb.org",
+      "phone": "9921343342",
+      "description": "Focuses on computer architecture, algorithms, cloud computing, intelligent systems, and software engineering."
+    },
+    {
+      "id": "dept-aids",
+      "department": "Artificial Intelligence and Data Science",
+      "name": "Dr. R. R. Bhandari",
+      "designation": "Head of Department",
+      "qualification": "BE, M.Tech. (IT), PhD (CSE)",
+      "areasOfInterest": "Wireless Sensor Networks, Internet of Things, Data Science",
+      "email": "bhandari.rrcoe@snjb.org",
+      "phone": "9404214914",
+      "description": "Pioneering state-of-the-art machine learning, deep learning, big data analytics, and generative AI curricula."
+    },
+    {
+      "id": "dept-civil",
+      "department": "Civil Engineering",
+      "name": "Dr. K. L. Bidkar",
+      "designation": "Head of Department",
+      "qualification": "BE, ME, PhD",
+      "areasOfInterest": "Structural Engineering, Environmental Engineering, Concrete Technology",
+      "email": "hodcivilcoe@snjb.org",
+      "phone": "8010577180",
+      "description": "Offers robust practical training in structural analysis, surveying, geotechnical engineering, and construction management."
+    },
+    {
+      "id": "dept-entc",
+      "department": "Electronics and Telecommunications Engineering",
+      "name": "Dr. R. K. Agrawal",
+      "designation": "Head of Department",
+      "qualification": "BE, ME, PhD",
+      "areasOfInterest": "Signal Processing, Embedded Systems, Communication Systems",
+      "email": "hodentccoe@snjb.org",
+      "phone": "9420967386",
+      "description": "Specialized in VLSI design, wireless communication, IoT integration, and embedded microcontroller systems."
+    },
+    {
+      "id": "dept-fe",
+      "department": "First Year Engineering",
+      "name": "Dr. R. J. Nayak",
+      "designation": "Head of Department",
+      "qualification": "M.Sc, PhD",
+      "areasOfInterest": "Applied Sciences, Foundation Mathematics, Engineering Physics & Chemistry",
+      "email": "hodappsccoe@snjb.org",
+      "phone": "9890132909",
+      "description": "Dedicated to laying a strong conceptual foundation in basic sciences and core engineering for all freshman students."
+    },
+    {
+      "id": "dept-mech",
+      "department": "Mechanical Engineering",
+      "name": "Dr. S. D. Sancheti",
+      "designation": "Head of Department",
+      "qualification": "BE, ME, PhD",
+      "areasOfInterest": "Thermal Engineering, CAD/CAM, Manufacturing Sciences, Automation",
+      "email": "hodmechcoe@snjb.org",
+      "phone": "7588175671",
+      "description": "Comprehensive workshop facilities, thermodynamics laboratories, automotive engineering, and robotics labs."
+    },
+    {
+      "id": "dept-mba",
+      "department": "MBA",
+      "name": "Dr. A. R. Murgai",
+      "designation": "Head of Department",
+      "qualification": "MBA, PhD",
+      "areasOfInterest": "Management Studies, Strategic Marketing, Organizational Behavior",
+      "email": "hodmbacoe@snjb.org",
+      "phone": "9890440576",
+      "description": "Postgraduate leadership training in financial management, human resources, marketing, and business analytics."
+    }
+  ],
+  "computerFaculty": [
+    {
+      "id": "comp-fac-1",
+      "name": "Dr. K. M. Sanghavi",
+      "designation": "Professor and Head",
+      "qualification": "BE, ME (CSE), PhD (CSE)",
+      "areasOfInterest": "Image Processing, Compiler Constructions, Object-Oriented Programming",
+      "email": "sanghavi.kmcoe@snjb.org",
+      "departmentContact": "hodcompcoe@snjb.org",
+      "phone": "9921343342"
+    },
+    {
+      "id": "comp-fac-2",
+      "name": "Dr. M. R. Sanghavi",
+      "designation": "Professor, Joint Director and Dean Academics",
+      "qualification": "BE, ME, PhD (CSE)",
+      "areasOfInterest": "Image Processing, DBMS, Big Data and Hadoop, Business Intelligence, Internet of Things",
+      "email": "sanghavi.mrcoe@snjb.org"
+    },
+    {
+      "id": "comp-fac-3",
+      "name": "Dr. K. R. Nirmal",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech. (IT), PhD (CSE)",
+      "areasOfInterest": "Machine Learning, Computer Graphics, Cloud Computing",
+      "email": "nirmal.krcoe@snjb.org"
+    },
+    {
+      "id": "comp-fac-4",
+      "name": "Dr. R. R. Bhandari",
+      "designation": "Associate Professor",
+      "qualification": "BE, M.Tech. (IT), PhD (CSE)",
+      "areasOfInterest": "Wireless Sensor Networks and Internet of Things",
+      "email": "bhandari.rrcoe@snjb.org"
+    },
+    {
+      "id": "comp-fac-5",
+      "name": "Mr. G. P. Dhomse",
+      "designation": "Assistant Professor",
+      "qualification": "BE, ME (CSE), PhD Pursuing",
+      "areasOfInterest": "Data Mining",
+      "email": "dhomse.gpcoe@snjb.org"
+    },
+    {
+      "id": "comp-fac-6",
+      "name": "Dr. A. J. Shakadwipi",
+      "designation": "Assistant Professor",
+      "qualification": "BE, M.E. (CSE), PhD (CSE)",
+      "areasOfInterest": "Data Mining",
+      "email": "shakadwipi.ajcoe@snjb.org"
+    }
+  ],
+  "examinationCell": {
+    "controllerOfExamination": "Dr. Rajendra Chunilal Patil",
+    "designation": "Associate Professor and Controller of Examination",
+    "email": "deanexamcoe@snjb.org",
+    "strictGuidelines": "Do not invent examination dates, results, hall-ticket details, or timetables. For current examination schedules, direct students to verified notices or the examination cell.",
+    "noticeCategories": [
+      { "title": "Examination Cell Contact", "description": "Direct communication with the Controller of Examination for queries and formal applications." },
+      { "title": "Mid-Semester Examination", "description": "Internal assessments, theory evaluation, and mid-term marks validation." },
+      { "title": "Semester End Examination", "description": "Comprehensive end-term university/college assessments and schedules." },
+      { "title": "Practical Examinations", "description": "Laboratory practical evaluations, oral exams, and external viva voce." },
+      { "title": "Re-examination Schedules", "description": "Makeup tests, backlog examinations, and re-evaluation procedures." },
+      { "title": "Examination Notices", "description": "Official circulars, exam form submission timelines, and regulatory instructions." }
+    ]
+  },
+  "syllabus": {
+    "academicYearRange": "2024–28",
+    "undergraduateBranches": [
+      "Artificial Intelligence and Data Science",
+      "Civil Engineering",
+      "Computer Engineering",
+      "Electronics and Telecommunications Engineering",
+      "Mechanical Engineering"
+    ],
+    "levelsCovered": "First Year and Second Year B.Tech",
+    "bTechRows": [
+      { "branch": "Artificial Intelligence and Data Science" },
+      { "branch": "Civil Engineering" },
+      { "branch": "Computer Engineering" },
+      { "branch": "Electronics and Telecommunications Engineering" },
+      { "branch": "Mechanical Engineering" }
+    ],
+    "secondYearCommonCourses": [
+      { "name": "Open Electives", "description": "Interdisciplinary open elective courses across emerging engineering domains." },
+      { "name": "Multidisciplinary Minor", "description": "Minor specialization tracks for breadth in complementary engineering disciplines." },
+      { "name": "Double Minors", "description": "Structured double minor pathways for multi-skilled professional qualification." },
+      { "name": "Honors", "description": "In-depth advanced honors courses available for: AI&DS, Civil, Computer, E&TC, Mechanical." },
+      { "name": "Modern Language Buckets", "description": "Global language communication options (German, Japanese, French, Business Communication)." }
+    ],
+    "mTechRows": [
+      { "branch": "Computer" },
+      { "branch": "Mechanical" }
+    ],
+    "mbaRows": [
+      { "program": "First Year MBA (FYMBA)" },
+      { "program": "Second Year MBA (SYMBA)" }
+    ]
+  },
+  "timetableAndExamCalendar": {
+    "notice": "Mark all past examination schedules as Historical. The Current Timetable section displays only verified current documents. Never treat old examination schedules as current.",
+    "calendarFramework": "Examination Calendar AY 2025–26, Semester I",
+    "academicYear": "2025–26",
+    "semester": "I",
+    "ugPgRows": [
+      { "srNo": 1, "program": "AI&DS", "className": "SY B.Tech" },
+      { "srNo": 2, "program": "Civil", "className": "SY B.Tech" },
+      { "srNo": 3, "program": "Computer", "className": "SY B.Tech" },
+      { "srNo": 4, "program": "E&TC", "className": "SY B.Tech" },
+      { "srNo": 5, "program": "Mechanical", "className": "SY B.Tech" },
+      { "srNo": 6, "program": "MBA", "className": "MBA-II" }
+    ],
+    "seeMay2025": [
+      "SEE May 2025 Timetable for UG First Year B.Tech, AY 2024–25, Semester II",
+      "SEE May 2025 Timetable for PG First Year M.Tech, AY 2024–25, Semester II",
+      "SEE May 2025 Timetable for PG First Year MBA, AY 2024–25, Semester II"
+    ],
+    "seeDec2024Jan2025": [
+      "SEE December 2024 Timetable for UG First Year B.Tech, AY 2024–25, Semester I",
+      "SEE December 2024 Timetable for PG First Year M.Tech, AY 2024–25, Semester I",
+      "SEE December 2024 Timetable for PG First Year MBA, AY 2024–25, Semester I"
+    ],
+    "examReExamSchedules": [
+      "Examination Schedule for FY B.Tech, FY M.Tech and MBA-I, AY 2024–25, Semester I",
+      "Re-examination Schedule for UG FY B.Tech, SEE January 2025",
+      "Re-examination Schedule for PG FY M.Tech, SEE January 2025",
+      "Re-examination Schedule for PG MBA-I, SEE January 2025"
+    ],
+    "currentTimetableNotices": [
+      { "title": "Current Semester Examination Notices", "date": "Verified Active Session" }
+    ]
+  },
+  "placement": {
+    "vision": "Transforming the learners into industry-oriented employable professionals.",
+    "mission": [
+      "To undertake activities related to the employability enhancement of learners.",
+      "To act as a liaison between industry and institute for mutually beneficial relationships and collaboration."
+    ],
+    "inCharge": {
+      "name": "Prof. H. S. Deore",
+      "designation": "Professor In-Charge, T&P Cell",
+      "email": "tpocoe@snjb.org",
+      "mobile": "9420363431"
+    },
+    "team": [
+      { "srNo": 1, "name": "Dr. R. G. Tated", "designation": "Principal and Head T&P Cell" },
+      { "srNo": 2, "name": "Prof. H. S. Deore", "designation": "Professor In-Charge T&P Cell" },
+      { "srNo": 3, "name": "Prof. M. S. Barkale", "designation": "Training and Placement Officer" },
+      { "srNo": 4, "name": "Prof. G. P. Dhomse", "designation": "T&P Coordinator, Computer Engineering" },
+      { "srNo": 5, "name": "Prof. O. V. Vaidya", "designation": "T&P Coordinator, Civil Engineering" },
+      { "srNo": 6, "name": "Prof. S. C. Pardeshi", "designation": "T&P Coordinator, Mechanical Engineering" },
+      { "srNo": 7, "name": "Prof. S. S. Thakare", "designation": "T&P Coordinator, E&TC Engineering" },
+      { "srNo": 8, "name": "Prof. M. S. Barkale", "designation": "T&P Coordinator, MBA Department" },
+      { "srNo": 9, "name": "Prof. Ashish Kale", "designation": "T&P Coordinator, AI&DS Engineering" }
+    ],
+    "recruiters": [
+      "Infosys",
+      "Cognizant",
+      "Accenture",
+      "Capgemini",
+      "Wipro",
+      "Deloitte",
+      "BYJU'S",
+      "Bosch",
+      "TCS",
+      "Zensar",
+      "Mahindra Rise",
+      "Hexaware",
+      "Coditas",
+      "LTIMindtree",
+      "Growupp",
+      "Bajaj",
+      "Hive Minds",
+      "ICICI",
+      "Netwin",
+      "IndiaMART",
+      "Niva",
+      "Persistent",
+      "Godrej",
+      "DMart",
+      "Spiders",
+      "Motherson",
+      "Otter",
+      "IntelliPaat",
+      "Force",
+      "LIXIL",
+      "HomeFirst",
+      "BH",
+      "Jaro",
+      "Pistol"
+    ],
+    "recruiterDisclaimer": "Show recruiter names as supplied. Do not invent company logos, active recruitment drives, current vacancies, or placement guarantees.",
+    "overallPlacementStats": [
+      { "academicYear": "2022–23", "placements": 232, "status": "Audited" },
+      { "academicYear": "2023–24", "placements": 236, "status": "Audited" },
+      { "academicYear": "2024–25", "placements": 219, "status": "Audited" },
+      { "academicYear": "2025–26*", "placements": 215, "status": "Supplied reported figure (verify before treating as final annual result)" }
+    ],
+    "departmentWise2024_25": [
+      { "department": "AI&DS", "placements": 21, "maxPackage": "₹6,00,000" },
+      { "department": "Civil", "placements": 19, "maxPackage": "₹4,60,000" },
+      { "department": "Computer", "placements": 66, "maxPackage": "₹11,50,000" },
+      { "department": "E&TC", "placements": 16, "maxPackage": "₹5,00,000" },
+      { "department": "Mechanical", "placements": 40, "maxPackage": "₹8,00,000" },
+      { "department": "MBA", "placements": 57, "maxPackage": "₹6,00,000" }
+    ],
+    "total2024_25": { "placements": 219, "maxPackage": "Not provided" },
+    "departmentWise2025_26": [
+      { "department": "AI&DS", "offers": 27, "placements": 24, "maxPackage": "₹9,00,000" },
+      { "department": "Civil", "offers": 20, "placements": 16, "maxPackage": "₹6,00,000" },
+      { "department": "Computer", "offers": 54, "placements": 35, "maxPackage": "₹9,00,000" },
+      { "department": "E&TC", "offers": 21, "placements": 21, "maxPackage": "₹8,00,000" },
+      { "department": "Mechanical", "offers": 67, "placements": 38, "maxPackage": "₹9,00,000" },
+      { "department": "MBA", "offers": 81, "placements": 81, "maxPackage": "₹5,00,000" }
+    ],
+    "total2025_26": { "totalOffers": 270, "totalPlacements": 215, "maxPackage": "Not provided" },
+    "placementRecords": [
+      { "srNo": 1, "academicYear": "2022–23" },
+      { "srNo": 2, "academicYear": "2021–22" },
+      { "srNo": 3, "academicYear": "2020–21" },
+      { "srNo": 4, "academicYear": "2019–20" },
+      { "srNo": 5, "academicYear": "2018–19" },
+      { "srNo": 6, "academicYear": "2017–18" }
+    ]
+  },
+  "laboratories": [
+    {
+      "id": "lab-1",
+      "name": "Engineering Chemistry Laboratory",
+      "floor": "First Floor",
+      "room": "105 A",
+      "building": "Main Academic Building",
+      "department": "First Year Engineering"
+    },
+    {
+      "id": "lab-2",
+      "name": "Engineering Physics Laboratory",
+      "floor": "First Floor",
+      "room": "105 B",
+      "building": "Main Academic Building",
+      "department": "First Year Engineering"
+    },
+    {
+      "id": "lab-3",
+      "name": "Basic Electrical Laboratory",
+      "floor": "Second Floor",
+      "room": "210",
+      "building": "Main Academic Building",
+      "department": "Electrical / First Year"
+    },
+    {
+      "id": "lab-4",
+      "name": "Basic Electronics Laboratory",
+      "floor": "Second Floor",
+      "room": "226",
+      "building": "Main Academic Building",
+      "department": "Electronics and Telecommunications"
+    },
+    {
+      "id": "lab-5",
+      "name": "Basic Mechanical Laboratory",
+      "floor": "Ground Floor",
+      "room": "012",
+      "building": "Main Academic Building",
+      "department": "Mechanical Engineering"
+    },
+    {
+      "id": "lab-6",
+      "name": "Engineering Mechanics Laboratory",
+      "floor": "Not provided",
+      "room": "37 B",
+      "building": "Not provided",
+      "department": "Civil Engineering"
+    },
+    {
+      "id": "lab-7",
+      "name": "Computer Science Laboratory",
+      "floor": "First Floor",
+      "room": "134",
+      "building": "Main Academic Building",
+      "department": "Computer Engineering"
+    },
+    {
+      "id": "lab-8",
+      "name": "Carpentry Laboratory",
+      "floor": "Not provided",
+      "room": "11",
+      "building": "Workshop Building",
+      "department": "Workshop Facility"
+    },
+    {
+      "id": "lab-9",
+      "name": "Welding Laboratory",
+      "floor": "Not provided",
+      "room": "7",
+      "building": "Workshop Building",
+      "department": "Workshop Facility"
+    },
+    {
+      "id": "lab-10",
+      "name": "Tin Smithy Laboratory",
+      "floor": "Not provided",
+      "room": "9",
+      "building": "Workshop Building",
+      "department": "Workshop Facility"
+    },
+    {
+      "id": "lab-11",
+      "name": "Drawing Hall",
+      "floor": "Ground Floor",
+      "room": "019",
+      "building": "Main Academic Building",
+      "department": "Engineering Drawing & Graphics"
+    },
+    {
+      "id": "lab-12",
+      "name": "Workshop Building",
+      "floor": "Not provided",
+      "room": "Not provided",
+      "building": "Workshop Building",
+      "facility": "Workshop building",
+      "department": "Central Mechanical Workshop"
+    }
+  ]
+}
